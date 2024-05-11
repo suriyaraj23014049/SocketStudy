@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## NAME:N.NAVYA SREE
-## REG NO:212223040138
+## NAME:SURIYA RAJ K
+## REG NO:212223040216
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
